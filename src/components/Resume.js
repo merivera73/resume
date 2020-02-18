@@ -131,8 +131,22 @@ const Resume = () => {
                             </div>
                             <div id="education" className="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                                 <div className="card-body">
-                                    <strong>Coding Dojo</strong> &mid; Burbank, CA
+                                    <strong>Coding Dojo</strong> | Burbank, CA
                                     <p>2019 Oct &ndash; Jan 2020</p>
+                                    <p>Learned Python with Flask and Django</p>
+                                    <p>Learned Java with Stringtool</p>
+                                    <p>Learned Mern</p>
+                                    <p>While attending Coding Dojo we built multiple projects using each technology, we collaborated 
+                                        with our fellow cohorts. Worked as a team to figure out bugs we ran into. Every morning we 
+                                        would start our day off working out algorithms. </p>
+                                        <br />
+                                    <strong>B.S. Web Design and MultiMedia</strong> | Westwood College Anaheim
+                                    <p>May 2003 &ndash; June 2006</p>
+                                    <p>GPA: 3.85</p>
+                                    <br />
+                                    <strong>A.S. Web Design and Development</strong> | ITT Tech Sylmar
+                                    <p>June 2001 &ndash; May 2003</p>
+                                    <p>GPA: 3.637</p>
                                 </div>
                             </div>
                         </div>
